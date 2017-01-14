@@ -1,0 +1,7 @@
+#Wed Jan 04 15:38:16 EET 2017
+base.0=E\:\\AndroidSutdioProjects\\BuckysListView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6c1ec2453b7e237a7d222867ce00faca5ddde76f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\AndroidSutdioProjects\\BuckysListView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a95d7862021828b44322c1ad34469c721407a59e\\classes.dex
+base.1=E\:\\AndroidSutdioProjects\\BuckysListView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a95d7862021828b44322c1ad34469c721407a59e
+file.0=E\:\\AndroidSutdioProjects\\BuckysListView\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6c1ec2453b7e237a7d222867ce00faca5ddde76f\\classes.dex
